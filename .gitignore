@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Test and coverage cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+tempCodeRunnerFile.py
